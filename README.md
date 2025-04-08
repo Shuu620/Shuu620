@@ -58,13 +58,11 @@
 [instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
 
 <br><br><br><br><br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuu620&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=febseo&show_icons=true&locale=en" alt="febseo" />
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tnsin333@gmail.com)](tnsin333@gmail.com)
 
 <br>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=febseo)](https://solved.ac/febseo)
 
 
