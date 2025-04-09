@@ -1,6 +1,8 @@
 
-<h1>Hi 👋, I'm Sujeong!!!</h1>
+<h1>Hi 👋, I'm Su jeong!!!</h1>
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Carpe%20diem&fontSize=90" />
 
 ### 🙋 I'm Sujeong, Fullstack developer. 
 💜 저는 끊임없이 배우고 성장하는 것을 즐기는 개발자 꿈나무 이수정입니다! <br>
@@ -63,4 +65,4 @@
 
 <br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuu620&layout=compact)
