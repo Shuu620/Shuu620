@@ -4,6 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Carpe%20diem&fontSize=90" />
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EC%88%98%EC%A0%95%EC%9D%B4%EC%9D%98+GITHUB%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!!!;Full+Stack+Developer" alt="Typing SVG" /></a>
+
 ### 🙋 I'm Sujeong, Fullstack developer. 
 💜 저는 끊임없이 배우고 성장하는 것을 즐기는 개발자 꿈나무 이수정입니다! <br>
 💜 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
