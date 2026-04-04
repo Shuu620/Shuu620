@@ -1,74 +1,132 @@
+<div align="center">
 
-<h1>Hi 👋, I'm Su jeong!!!</h1>
-<br>
+# Hi there 👋 I'm Sujeong
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Carpe%20diem&fontSize=90" />
+### 🌷 꾸준히 배우고 만드는 개발자
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EC%88%98%EC%A0%95%EC%9D%B4%EC%9D%98+GITHUB%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!!!;Full+Stack+Developer" alt="Typing SVG" /></a>
-
-### 🙋 I'm Sujeong, Fullstack developer. 
-💜 저는 끊임없이 배우고 성장하는 것을 즐기는 개발자 꿈나무 이수정입니다! <br>
-💜 호기심과 학습의지를 토대로 다양한 기술을 습득하며 지속적인 성장을 추구합니다.  <br>
-💜 프로그래밍을 통해 사람들에게 편리함과 즐거움을 주는 개발자가 되고 싶습니다. <br>
-💜 학습한 다양한 지식을 노션에 체계적으로 정리함으로써, 이후 프로젝트에 적용 가능하도록 하고 있습니다. <br>
-💜 소심하고 내성적이지만 적극적으로 공부하고 있습니다. <br>
-💜 현재 자바스크립트와 웹 개발 공부에 열정을 쏟고 있습니다. <br>
-💜 앞으로도 꾸준한 학습과 노력으로 실력을 키워가겠습니다. <br>
-
-<br>
-
-
-
-
-### 🛠 Languages and Tools
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff"/> 
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=fff"/> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=fff"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=4479A1"/> 
-  <img src="https://img.shields.io/badge/JAVA-8F0000?style=flat-square&logo=Java&logoColor=4479A1"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git&logoColor=F05032"/> 
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=#007ACC"/> 
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=#fff"/> 
+  <a href="https://shuugar.dothome.co.kr">
+    <img src="https://img.shields.io/badge/Homepage-FFb0DD?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/shuu620">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://blog7036.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+  <a href="mailto:tnsin333@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Be%20strong%20and%20courageous!&fontSize=50" />
 
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%EC%88%98%EC%A0%95%EC%9D%B4%EC%9D%98+GITHUB%EC%97%90+%EC%98%A4%EC%8B%A0+%EA%B2%83%EC%9D%84+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4!!!;Frontend+Developer+:+Lee+Sujeong" alt="Typing SVG" /></a>
 
-### 🎓 Education
-<p>광운대학교 정보과학교육원 컴퓨터공학과 학사  |  2016.03 ~ 2018.08 </p>
-<p>혜화여자고등학교  |  2013.03 ~ 2016.02 </p>
+</div>
 
-    
-<br>
+---
 
-### ♾️ Connect with me
+## 🌼 About Me
 
-[<img align="left" alt="SOKURI_CODE | velog" width="48px" src="https://img.icons8.com/color/48/000000/blog.png" />][website]
-[<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
-[<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+- 요즘은 **프론트엔드 / 자격증 공부**를 함께 하고 있어요.
+- 웹 개발과 UI 꾸미는 걸 좋아해요.
+- 작은 기능도 직접 만들어보면서 익히는 스타일이에요.
+- 목표는 꾸준히 성장하는 개발자가 되는 것!
 
-[website]: http://febseo.dothome.co.kr
-[youtube]: https://www.youtube.com/watch?v=64J_L24nSQQ
-[instagram]: https://www.youtube.com/watch?v=64J_L24nSQQ  
+---
 
-<br><br><br><br><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shuu620&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baeyuna97&show_icons=true&theme=radical)
+## 🛠 Tech Stack
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tnsin333@gmail.com)](tnsin333@gmail.com)
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+</p>
 
-<br>
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-FF7800?style=flat-square" />
+  <img src="https://img.shields.io/badge/Servlet-6DB33F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shuu620&layout=compact)
+### Database / Tools
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
+
+## 📚 What I’m Studying
+
+- Java / JSP / Servlet
+- Spring MVC
+- 게시판 CRUD & 댓글 기능
+- React 기초
+- 정보처리기사 공부
+
+---
+
+## ✨ Featured Projects
+
+### 🎮 React Project
+
+[![Zelda Project](https://via.placeholder.com/800x400.png?text=Zelda+React+Project)](https://shuugar.dothome.co.kr/zelda/#/)
+
+"젤다의 전설: 브레스 오브 더 와일드"를 모티브로 만든 React 웹 프로젝트입니다.<br>
+캐릭터와 스토리 콘텐츠를 감성적인 UI로 구성하고, SPA 방식으로 구현했습니다.
+
+- **Tech Stack**: React, JavaScript, CSS
+- **Live Demo**: [바로가기](https://shuugar.dothome.co.kr/zelda/#/)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shuu620&show_icons=true&theme=rose_pine&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuu620&layout=compact&theme=rose_pine&hide_border=true)
+
+</div>
+
+---
+
+## 🐾 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shuu620&theme=rose-pine&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🎀 Motto
+
+> **강하고 담대하게. 천천히 가도, 멈추지만 않으면 괜찮다.**
+
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting my profile!
+
+</div>
+
+
+
+
+
+
+
+
