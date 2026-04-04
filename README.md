@@ -111,7 +111,7 @@
 
 ---
 
-### 👥 Team Project
+### 👥 Team Project : Domino Pizza
 
 <table>
   <tr>
@@ -139,7 +139,36 @@
 
 ---
 
+### 👥 Team Project : LocalAdmin
 
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <a href="https://github.com/Shuu620/LocalAdmin">
+        <img src="https://github.com/user-attachments/assets/774fcf0c-63d9-461c-84f1-c58f4ef7817f" width="100%" alt="LocalAdmin Project" />
+      </a>
+    </td>
+    <td width="60%">
+      주민센터 관리자를 위한 Spring Legacy MVC 기반 백오피스 프로젝트입니다.<br><br>
+      • Spring Security를 활용한 로그인 및 권한별 접근 제어 구현<br>
+      • 게시물/민원/회원/댓글 관리 기능과 검색, 페이징 기능 구성<br>
+      • jQuery/Ajax 기반 비동기 댓글 처리와 관리자 대시보드 UI 구현
+    </td>
+  </tr>
+</table>
+
+**사용 기술**  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/JSP-FFB0DD?style=flat-square" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/Ajax-FFCC66?style=flat-square" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+📁 **Repository** : [바로가기](https://github.com/Shuu620/LocalAdmin)
 
 ---
 
