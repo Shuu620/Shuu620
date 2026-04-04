@@ -109,6 +109,8 @@
 📁 **Repository** : 준비중
 🌐 **Live Demo** : [바로가기](https://shuugar.dothome.co.kr/zelda/#/)
 
+---
+
 ### 👥 Team Project
 
 <table>
@@ -134,6 +136,10 @@
 
 📁 **Repository** : 준비중  
 🌐 **Live Demo** : [바로가기](https://shuugar.dothome.co.kr/008_Project_domino/)
+
+---
+
+
 
 ---
 
