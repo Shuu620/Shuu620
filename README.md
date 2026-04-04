@@ -68,11 +68,14 @@
 
 ## 📚 What I’m Studying
 
+- React
+- React Native
+- TypeScript
+- Figma
+- 정보처리기사 공부
 - Java / JSP / Servlet
 - Spring MVC
 - 게시판 CRUD & 댓글 기능
-- React 기초
-- 정보처리기사 공부
 
 ---
 
@@ -80,13 +83,57 @@
 
 ### 🎮 React Project
 
-[![Zelda Project](https://via.placeholder.com/800x400.png?text=Zelda+React+Project)](https://shuugar.dothome.co.kr/zelda/#/)
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <a href="https://shuugar.dothome.co.kr/zelda/#/">
+        <img src="https://github.com/user-attachments/assets/f8d6ec74-6f93-4f41-986d-eddc62abb422" width="100%" alt="Zelda React Project" />
+      </a>
+    </td>
+    <td width="60%">
+      "젤다의 전설"을 모티브로 만든 React 기반 SPA 프로젝트입니다.<br><br>
+      • 섹션형 레이아웃으로 스토리와 캐릭터 콘텐츠 구성<br>
+      • React Router를 활용한 부드러운 화면 전환 구현<br>
+      • 게임 분위기를 살린 UI와 콘텐츠 중심 화면 설계
+    </td>
+  </tr>
+</table>
 
-"젤다의 전설: 브레스 오브 더 와일드"를 모티브로 만든 React 웹 프로젝트입니다.<br>
-캐릭터와 스토리 콘텐츠를 감성적인 UI로 구성하고, SPA 방식으로 구현했습니다.
+**사용 기술**  
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
+<img src="https://img.shields.io/badge/SPA-FFB0DD?style=flat-square" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-- **Tech Stack**: React, JavaScript, CSS
-- **Live Demo**: [바로가기](https://shuugar.dothome.co.kr/zelda/#/)
+📁 **Repository** : 준비중
+🌐 **Live Demo** : [바로가기](https://shuugar.dothome.co.kr/zelda/#/)
+
+### 👥 Team Project
+
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <a href="https://shuugar.dothome.co.kr/008_Project_domino/">
+        <img src="https://github.com/user-attachments/assets/dbc91d63-2f0f-4b61-ab74-44b8892ce2ea" width="100%" alt="Domino Pizza Project" />
+      </a>
+    </td>
+    <td width="60%">
+      도미노피자 웹사이트를 클론 제작한 웹 프로젝트입니다.<br><br>
+      • 브랜드 느낌을 살린 메인 화면과 메뉴 중심 UI 구성<br>
+      • 사용자가 보기 쉽게 콘텐츠를 구역별로 나누어 배치<br>
+      • 실제 사이트 분위기를 참고해 레이아웃과 스타일 구현
+    </td>
+  </tr>
+</table>
+
+**사용 기술**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+📁 **Repository** : 준비중  
+🌐 **Live Demo** : [바로가기](https://shuugar.dothome.co.kr/008_Project_domino/)
 
 ---
 
