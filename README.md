@@ -106,7 +106,7 @@
 <img src="https://img.shields.io/badge/SPA-FFB0DD?style=flat-square" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-📁 **Repository** : 준비중
+📁 **Repository** : [바로가기](https://github.com/Shuu620/zelda-react)
 🌐 **Live Demo** : [바로가기](https://shuugar.dothome.co.kr/zelda/#/)
 
 ---
@@ -134,7 +134,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-📁 **Repository** : 준비중  
+📁 **Repository** : [준비중](https://github.com/Shuu620/ProjectDomino)
 🌐 **Live Demo** : [바로가기](https://shuugar.dothome.co.kr/008_Project_domino/)
 
 ---
