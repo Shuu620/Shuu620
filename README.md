@@ -86,7 +86,7 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <a href="https://shuugar.dothome.co.kr/zelda/#/">
+      <a href="https://shuugar.dothome.co.kr/project/zelda/#/">
         <img src="https://github.com/user-attachments/assets/f8d6ec74-6f93-4f41-986d-eddc62abb422" width="100%" alt="Zelda React Project" />
       </a>
     </td>
@@ -107,7 +107,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
 📁 **Repository** : [바로가기](https://github.com/Shuu620/zelda-react)
-🌐 **Live Demo** : [바로가기](https://shuugar.dothome.co.kr/zelda/#/)
+🌐 **Live Demo** : [바로가기](https://shuugar.dothome.co.kr/project/zelda/#/)
 
 ---
 
@@ -116,7 +116,7 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <a href="https://shuugar.dothome.co.kr/008_Project_domino/">
+      <a href="https://shuugar.dothome.co.kr/project/008_Project_domino/">
         <img src="https://github.com/user-attachments/assets/dbc91d63-2f0f-4b61-ab74-44b8892ce2ea" width="100%" alt="Domino Pizza Project" />
       </a>
     </td>
@@ -135,7 +135,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
 📁 **Repository** : [바로가기](https://github.com/Shuu620/ProjectDomino)
-🌐 **Live Demo** : [바로가기](https://shuugar.dothome.co.kr/008_Project_domino/)
+🌐 **Live Demo** : [바로가기](https://shuugar.dothome.co.kr/project/008_Project_domino/)
 
 ---
 
